@@ -1,0 +1,11 @@
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    flex-direction: column;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.75);
+    margin-inline: 15%;
+    margin-top: 5%;
+    padding-bottom: 10%;
+}

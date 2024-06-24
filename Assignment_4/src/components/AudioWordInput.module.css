@@ -1,0 +1,11 @@
+.mainContent{
+    height: 30px;
+    width: 50%;
+    background-color: beige;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.button{
+    margin-inline: 5px;
+}

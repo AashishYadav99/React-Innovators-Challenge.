@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn{
+    width: 150px;
+    background-color: yellow;
+}
+
+.result{
+    width: 100%;
+    height: 100%;
+    margin-inline: 25%;
+    background-color: aquamarine;
+    margin-top: 5%;
+}

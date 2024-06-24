@@ -1,0 +1,29 @@
+.buttonContainer{
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: min-content min-content; 
+    width: 30%;
+    margin-left: 35%;
+}
+
+.imagesGrid img{
+    height: 50%;
+    width: 50%;
+    cursor: pointer;
+    padding: 0px;  
+}
+
+.imagesGrid img.active{
+    background-color: rgb(152, 196, 196);
+}
+
+.result{
+    width: 50%;
+    height: 10%;
+    margin-inline: 25%;
+    background-color: aquamarine;
+}

@@ -1,0 +1,19 @@
+
+
+h3{
+  background-color: brown;
+  margin-inline: 20%;
+}
+.correct{
+  color: green;
+}
+
+.wrong{
+  color: red;
+}
+
+.displayAnswer{
+  text-align: center;
+  justify-content: center;
+}
+

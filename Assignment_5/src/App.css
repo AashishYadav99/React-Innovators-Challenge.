@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+  margin-inline: 20%;
+  margin-top: 10%;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+}
